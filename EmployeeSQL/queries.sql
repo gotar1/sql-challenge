@@ -107,3 +107,4 @@ count(*) AS frequency_count
 FROM employees e
 GROUP BY last_name
 ORDER BY frequency_count DESC;
+
