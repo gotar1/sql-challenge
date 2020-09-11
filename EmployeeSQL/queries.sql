@@ -3,8 +3,8 @@
 
 SELECT 
 e.emp_no,
-e.first_name, 
-e.last_name, 
+e.last_name,
+e.first_name,  
 e.sex,
 s.salary
 FROM employees e
