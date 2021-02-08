@@ -48,7 +48,7 @@ After completing the database, we used SQL query to do the following:
 * Generate a visualization of the data.
 
 #### <a id="sql-query"></a>SQL Query
-![sql query](EmployeeSQL/SQL_files/query.sql)
+![sql query](EmployeeSQL/SQL_files/queries.sql)
 
 After that we imported the SQL database into Pandas to do some charting to visualize our data.
 
