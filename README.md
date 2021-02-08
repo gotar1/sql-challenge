@@ -18,7 +18,7 @@ In other words, we will perform:
 Inspect the CSVs and sketch out an ERD of the tables. We used [QuickDBD](http://www.quickdatabasediagrams.com) website.
 
 #### <a id="sql-erd"></a>SQL ERD
-![sql erd](EmployeeSQL/SQL_files/sql_ERD.png)
+![sql erd](EmployeeSQL/SQL_files/ERD.png)
 
 #### Data Engineering
 
@@ -31,7 +31,7 @@ Inspect the CSVs and sketch out an ERD of the tables. We used [QuickDBD](http://
   * Our DataBase is completed, we move to next phase.
 
 #### <a id="table-schema"></a>Table Schema
-![table schema](EmployeeSQL/SQL_files/table_schem.sql)
+![table schema](EmployeeSQL/SQL_files/schema.sql)
 
 #### Data Analysis
 
