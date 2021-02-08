@@ -32,6 +32,7 @@ Inspect the CSVs and sketch out an ERD of the tables. We used [QuickDBD](http://
 
 #### <a id="table-schema"></a>Table Schema
 ![table schema](EmployeeSQL/SQL_files/schema.sql)
+![schema](EmployeeSQL/images/schema.png)
 
 #### Data Analysis
 
@@ -48,7 +49,8 @@ After completing the database, we used SQL query to do the following:
 * Generate a visualization of the data.
 
 #### <a id="sql-query"></a>SQL Query
-![sql query](EmployeeSQL/SQL_files/queries.sql)
+![sql query](EmployeeSQL/SQL_files/query.sql)
+![query](EmployeeSQL/images/query.png)
 
 After that we imported the SQL database into Pandas to do some charting to visualize our data.
 
